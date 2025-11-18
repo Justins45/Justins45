@@ -1,5 +1,5 @@
 # 🍑 About Me:
-A website developer turned software developer student with more than 3 years of experience designing and creating websites and apps.<br><br>Self teaching myself Rust and C# - wanting to get more in depth into building software
+A website developer turned software developer student with more than 3 years of experience designing and creating websites and apps.<br><br>Self teaching myself Rust and C# + Java - wanting to get more in depth into building software
 
 
 ## 🌐 Socials:
